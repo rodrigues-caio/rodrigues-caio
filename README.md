@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Caio Rodrigues. I work as a Development of Software at ZUP Innovation.
+My name is Caio Rodrigues. I work as a Developer at ZUP Innovation.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rodrigues-caio&repo=rodrigues-caio&countColorcountColor)
 
